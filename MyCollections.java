@@ -1,6 +1,7 @@
 package EPAM2015_lab7;
 
 import java.util.Comparator;
+import java.util.RandomAccess;
 
 public class MyCollections {
 
